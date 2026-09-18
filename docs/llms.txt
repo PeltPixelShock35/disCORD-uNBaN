@@ -1,0 +1,10 @@
+# disCORD-uNBaN
+
+disCORD-uNBaN чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+
+disCORD-uNBaN чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/PeltPixelShock35/disCORD-uNBaN/releases/latest
+Код: https://github.com/PeltPixelShock35/disCORD-uNBaN
+Основа: https://github.com/bol-van/zapret
+Страница: https://peltpixelshock35.github.io/disCORD-uNBaN/
